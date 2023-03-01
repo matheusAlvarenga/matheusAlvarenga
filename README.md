@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Matheus Alvarenga</h1>
 <h3 align="center">A passionate FullStack Developer and Leader from Brazil</h3>
 
-<p align="center">I’m a resiliently passionate leader, software engineer and product enthusiast, who admires every type of art especially the art of creating digital products. I’ve worked in all parts of the software development lifecycle in digital products for multimillion dollar companies.</p>
+<p align="center">I’m a resiliently passionate leader, software engineer and product enthusiast, who admires every type of art, especially the art of creating digital products. I’ve worked in all parts of the software development lifecycle in digital products for multimillion-dollar companies.</p>
 
-<p align="center">Over the course of my 2+ year career, I’ve worked in products for companies such as Vale, Gerdau and Volvo. Before my professional career I studied 5 years of graphical design and programming while working as a freelancer.</p>
+<p align="center">Over the course of my 2+ year career, I’ve worked in products for companies such as Vale, Gerdau and Volvo. Before my professional career, I studied 5 years of graphical design and programming while working as a freelancer.</p>
 
 <p align="center">I’m a leader who believes that everyone works better with a smile on their face. I enjoy talking for hours about any topic and making people laugh.</p>
 
 <p align="center">Outside of work, I spiritually recharge by painting or listening to music. What I appreciate about my job is being able to pursue both my personal goals and professional passions with equal enthusiasm and time.</p>
 
-<p align="center">I believe that product management and engineering needs to be combined and if you believe I’d be a suitable fit for your organization or you want to communicate about products or software architecture, please send me an invitation to connect!</p>
+<p align="center">I believe that product management and engineering needs to be combined and if you believe I’d be a suitable fit for your organization, or you want to communicate about products or software architecture, please send me an invitation to connect!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusalvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="matheusalvarenga" /> </p>
 
