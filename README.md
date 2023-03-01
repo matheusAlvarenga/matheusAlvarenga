@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+ [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=matheus-alvarenga)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
