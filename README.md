@@ -28,9 +28,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1BpWbyLeAFr8lGF19jjgV8Xabs8BMLJrS/edit?usp=share_link&ouid=108337482282989716393&rtpof=true&sd=true](https://docs.google.com/document/d/1BpWbyLeAFr8lGF19jjgV8Xabs8BMLJrS/edit?usp=share_link&ouid=108337482282989716393&rtpof=true&sd=true)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
- [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=matheus-alvarenga)
-<!-- BLOG-POST-LIST:END -->
+[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=matheus-alvarenga)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
