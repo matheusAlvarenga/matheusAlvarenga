@@ -19,13 +19,13 @@
 
 - 🌱 I’m currently learning **DevOps and Interaction Design**
 
-- 📝 I regularly write articles on [https://medium.com/@matheus-alvarenga](https://medium.com/@matheus-alvarenga)
+- 📝 I regularly write articles on [my Medium](https://medium.com/@matheus-alvarenga)
 
 - 💬 Ask me about **Software Engineering, Product Discovery and UX**
 
 - 📫 How to reach me **matheus.alvarenga0302@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1BpWbyLeAFr8lGF19jjgV8Xabs8BMLJrS/edit?usp=share_link&ouid=108337482282989716393&rtpof=true&sd=true](https://docs.google.com/document/d/1BpWbyLeAFr8lGF19jjgV8Xabs8BMLJrS/edit?usp=share_link&ouid=108337482282989716393&rtpof=true&sd=true)
+- 📄 Know about my experiences in [my CV](https://docs.google.com/document/d/1BpWbyLeAFr8lGF19jjgV8Xabs8BMLJrS/edit?usp=share_link&ouid=108337482282989716393&rtpof=true&sd=true)
 
 ### Blogs posts
 ![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=matheus-alvarenga&limit=4)
