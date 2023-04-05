@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusalvarenga" alt="matheusalvarenga" /></a> </p>
 
-- 🔭 I’m currently working on [nata.house](https://natahouse.com/)
+- 🔭 I’m currently working on [Grupo Boticario](https://www.grupoboticario.com.br/)
 
 - 🌱 I’m currently learning **DevOps and Interaction Design**
 
