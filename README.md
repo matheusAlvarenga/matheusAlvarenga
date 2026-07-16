@@ -7,10 +7,6 @@
 
 <p align="center">Aplica inteligência artificial como parte do fluxo de desenvolvimento, com experiência prática em ferramentas como Claude, Cursor e metodologia SDD para potencializar produtividade e qualidade técnica.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusalvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="matheusalvarenga" /> </p>
+# Links
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusalvarenga" alt="matheusalvarenga" /></a> </p>
-
-- 🔭 I’m currently working on [Grupo Boticario](https://www.grupoboticario.com.br/)
-
-- 📄 Know about my experiences in [my Website](https://www.alvarenga.me)
+- 📄 Know about my experiences in [my Website](https://www.alvarenga.me) or in [my Linkedin](https://www.linkedin.com/in/matheus-alvarenga-de-oliveira/)
